@@ -23,9 +23,16 @@ An AI-powered Urban Heat Mitigation Decision Support System that utilizes satell
 - Sustainability Dashboard
 - Decision Support System
 
-### Demo
-Website :
-https://urban-heat-optimizer--anitaaru.replit.app
+### Demo Website :
+Website prototype :
+1) https://4628f027-c6d3-49f4-a96f-6f89792c55ea-00-2wx3qvzb9v2vc.sisko.replit.dev/
+   
+(Mostly Prefered  Website )
+
+2) https://urban-heat-optimizer--anitaaru.replit.app
+### DEMO VIDEO LINK :
+
+     https://01f3f5dd-13eb-436a-acc4-0b63317a09d3-00-rqm15ocbua6h.sisko.replit.dev/urbanheat-video/
 
 ### Team Contribution
 
