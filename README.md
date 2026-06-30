@@ -33,7 +33,6 @@ Website prototype :
 ### DEMO VIDEO LINK :
 
      https://01f3f5dd-13eb-436a-acc4-0b63317a09d3-00-rqm15ocbua6h.sisko.replit.dev/urbanheat-video/
-
 ### Team Contribution
 
 1) Abhilasha M Jadhav (Leader) :- Website development , presentation , Github repository ,Project inteagration & Final Submission.
